@@ -1,0 +1,14 @@
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\bin\Debug\Notepad.Dependencies.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\bin\Debug\Notepad.Dependencies.pdb
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\bin\Debug\Unity.Abstractions.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\bin\Debug\Unity.Container.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\bin\Debug\Unity.Abstractions.pdb
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\bin\Debug\Unity.Container.pdb
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\obj\Debug\Notepad.Dependencies.csprojAssemblyReference.cache
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\obj\Debug\Notepad.Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\obj\Debug\Notepad.Dependencies.csproj.CopyComplete
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\obj\Debug\Notepad.Dependencies.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Dependencies\obj\Debug\Notepad.Dependencies.pdb

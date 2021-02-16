@@ -1,0 +1,14 @@
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\bin\Debug\Notepad.Resources.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\bin\Debug\Notepad.Resources.pdb
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\bin\Debug\de-DE\Notepad.Resources.resources.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\bin\Debug\pl-PL\Notepad.Resources.resources.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\obj\Debug\Notepad.Resources.csprojAssemblyReference.cache
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\obj\Debug\Notepad.Resources.Strings.resources
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\obj\Debug\Notepad.Resources.Strings.de-DE.resources
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\obj\Debug\Notepad.Resources.Strings.pl-PL.resources
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\obj\Debug\Notepad.Resources.csproj.GenerateResource.cache
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\obj\Debug\Notepad.Resources.csproj.CoreCompileInputs.cache
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\obj\Debug\de-DE\Notepad.Resources.resources.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\obj\Debug\pl-PL\Notepad.Resources.resources.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\obj\Debug\Notepad.Resources.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Resources\obj\Debug\Notepad.Resources.pdb

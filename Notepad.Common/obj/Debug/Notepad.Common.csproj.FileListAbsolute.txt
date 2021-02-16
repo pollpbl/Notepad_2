@@ -1,0 +1,6 @@
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Common\bin\Debug\Notepad.Common.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Common\bin\Debug\Notepad.Common.pdb
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Common\obj\Debug\Notepad.Common.csprojAssemblyReference.cache
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Common\obj\Debug\Notepad.Common.csproj.CoreCompileInputs.cache
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Common\obj\Debug\Notepad.Common.dll
+C:\Users\pawelp\Desktop\WPF Workshop\Tasks\Day 2\Projects - Copy\Notepad\Notepad.Common\obj\Debug\Notepad.Common.pdb
